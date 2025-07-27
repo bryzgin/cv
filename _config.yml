@@ -1,4 +1,11 @@
 title: k.bryzgin
+author:
+  name: k.bryzgin
+  email: k.bryzgin@yandex.ru
+
+description: >
+  Портфолио для аналитика данных
+  
 logo: /assets/img/photo_gh.png
 show_downloads: true
 theme: jekyll-theme-minimal
