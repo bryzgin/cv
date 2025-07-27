@@ -6,6 +6,8 @@
 - Аналитик данных Хекслет (_2024_)
 - Информационные системы и технологии (геоинформационные системы) Магистратура УГГУ, г. Екатеринбург (_2026_)
 
+***
+
 ## Проекты
 ### Дашборд конверсий
 [Репозиторий](https://github.com/bryzgin/conversion-dashboard)
@@ -14,6 +16,7 @@
 
 ![conversion-dashboard](/assets/img/conversion_dashboard.jpg)
 
+***
 
 ### Онлайн-школа
 [Репозиторий](https://github.com/bryzgin/online-school)
