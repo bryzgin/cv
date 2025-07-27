@@ -26,3 +26,10 @@
 Создание системы сквозной аналитики для маркетологов онлайн-школы для оценки эффективность рекламных компаний (postgresql, superset).
 
 ![online-school](/assets/img/online_school.jpg)
+
+***
+
+## Кейсы
+- to do
+- to do
+- to do
