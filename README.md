@@ -6,8 +6,11 @@
 - Геоаналитика
 
 ### Технические навыки: 
-- Python
-- SQL
+- Программирование
+  - Python
+  - JavaScript
+- Базы данных:
+  - PostgreSQL (PostGIS)
 
 ***
 
