@@ -43,3 +43,10 @@
 ![online-school](/assets/img/online_school.jpg)
 
 ***
+
+### Продажи
+[Репозиторий](https://github.com/bryzgin/sales)
+
+Анализ данных отдела продаж (google sheets, postgres, superset).
+
+***
