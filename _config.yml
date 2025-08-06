@@ -8,4 +8,4 @@
   
 # logo: /assets/img/photo_gh.png
 # show_downloads: true
-remote_theme: ankitsultana/researcher@gem
+theme: jekyll-bear-theme
