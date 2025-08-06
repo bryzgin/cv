@@ -8,4 +8,4 @@
   
 # logo: /assets/img/photo_gh.png
 # show_downloads: true
-theme: jekyll-bear-theme
+remote_theme: "jekyll/minima@1e8a445"
